@@ -1,2 +1,2 @@
-# first_games
-skibidi
+# first_game
+skibidi 67 with ketchup!!!
